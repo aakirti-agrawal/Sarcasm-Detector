@@ -45,3 +45,4 @@ References:
 https://skymind.ai/wiki/word2vec
 https://medium.freecodecamp.org/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04 (Bag of Words)
 https://projector.tensorflow.org/ (Word2Vec representation)
+https://www.geeksforgeeks.org/generating-word-cloud-python/ (Word Cloud)
